@@ -14,15 +14,15 @@ function Chat() {
                     <p>últ. vez hoy...</p>
                 </div>
                 <div className="chat__headerRight">
-                    <IconButton/>
+                    <IconButton>
                         <SearchOutlined/>
-                    <IconButton/>
-                    <IconButton/>
+                    </IconButton>
+                    <IconButton>
                         <AttachFile/>
-                    <IconButton/>
-                    <IconButton/>
+                    </IconButton>
+                    <IconButton>
                         <MoreVert/>
-                    <IconButton/>
+                    </IconButton>
                 </div>
                 
             </div>
